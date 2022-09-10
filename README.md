@@ -2,7 +2,7 @@
 - 👀 I’m interested in Community Management and Web3 Technology
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on Web3 projects. 
-- 📫 How to reach me @Casabella1234 via twitter
+- 📫 How to reach me: Contact me @Casabella1234 via twitter
 
 <!---
 Casabellah/Casabellah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
